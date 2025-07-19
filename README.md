@@ -67,7 +67,7 @@ EmotionDetectionProject/
 ├── test_setup.py          # Setup verification script
 ├── preprocessing.ipynb    # jupyter notebook code
 ├── README.md              # This file
-└── Datasets/              # Training and test datasets
+└── Datasets/              # Training and test datasets ( you can find them at Kaggle - FER2013 )
 ```
 
 ## How It Works
